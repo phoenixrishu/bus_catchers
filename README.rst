@@ -10,7 +10,7 @@ At some point, I would like to develop a python framework for extracting data fr
 The code uses Selenium + Firefox to navigate through the websites, and Scrapy to parse html.  The code has the following dependencies: 
 
 Dependencies
--------------
+--------------
 
 1) **Selenium** 
 
